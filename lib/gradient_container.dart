@@ -15,6 +15,7 @@ class GradientContainer extends StatelessWidget {
             width: 300,
             height: 300,
             color: const Color.fromARGB(70, 255, 255, 255),
+            //ARGB stands for Alpha , Red , Green , Blue
           ),
           const SizedBox(height: 30),
           Text(
